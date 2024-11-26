@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Juliet Oma",
+      "email": "julie@123yahoo.com",
+      "number": "08100000000",
+      "id": "1"
+    },
+    {
+      "name": "Ahmed Mishra",
+      "email": "ahmedali012@gmail.com",
+      "number": "09022222222",
+      "id": "3"
+    },
+    {
+      "id": "7944",
+      "name": "Swagna",
+      "email": "swagnapanda@gmail.com",
+      "number": "07751905089"
+    },
+    {
+      "id": "ff90",
+      "name": "Mama Panda",
+      "email": "swagna.panda@audviklabs.com",
+      "number": "5437823728"
+    },
+    {
+      "id": "0eda",
+      "name": "RAMA CHANDRA",
+      "email": "ABC@GMAIL.COM",
+      "number": "899955334867"
+    },
+    {
+      "id": "9ef8",
+      "name": "g cncv bg",
+      "email": "vcfrs",
+      "number": "5t4rt"
+    }
+  ]
+}

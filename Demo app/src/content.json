@@ -1,0 +1,23 @@
+{"content":
+   [
+    {
+      "id": 1,
+      "title": "Learning React",
+      "image": "https://via.placeholder.com/150",
+      "link": "https://reactjs.org/docs/getting-started.html"
+    },
+    {
+      "id": 2,
+      "title": "Understanding JavaScript",
+      "image": "https://via.placeholder.com/150",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    },
+    {
+      "id": 3,
+      "title": "Mastering Frontend Development",
+      "image": "https://via.placeholder.com/150",
+      "link": "https://frontendmasters.com/"
+    }
+  ]
+}
+  
